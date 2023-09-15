@@ -11,9 +11,17 @@ Welcome to ELITE-HYO GROUP - Your Trusted IT Consultancy Partner
 
 At ELITE-HYO GROUP, we're not just an IT services company; we're your go-to experts in crafting cutting-edge software systems and providing top-tier Cybersecurity services. Our headquarters are located in the vibrant city of Kigali, Rwanda, and we extend our expertise to businesses worldwide, helping them harness the power of technology to thrive in the digital age.
 
+![Statistics](https://img.shields.io/badge/Projects-10+-green)
+![Statistics](https://img.shields.io/badge/Clients-50+-blue)
+![Statistics](https://img.shields.io/badge/Team-20+-orange)
+
+---
+
 ### Bridging Technology Gaps Worldwide
 
 We're more than just a consultancy firm; we're innovators. ELITE is not just a word in our name; it's a reflection of our commitment to excellence. Our team comprises dynamic, young software engineers who are not only passionate but also highly skilled in their craft. We are dedicated to advancing our services to a global scale, delivering solutions that redefine industries.
+
+---
 
 ### Leadership with a Purpose
 
