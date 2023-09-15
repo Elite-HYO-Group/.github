@@ -85,4 +85,4 @@ Have questions or want to reach out to us? Feel free to contact us through one o
 </div>  
 <br/>
 
-![GitHub Logo](https://example.com/your-logo.png)
+![GitHub Logo](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;")
