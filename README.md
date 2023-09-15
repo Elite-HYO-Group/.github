@@ -1,7 +1,8 @@
 # Elite-HYO Group Ltd
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 <div align="center">
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 <a href="https://github.com/Yvonmu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -17,21 +18,6 @@
 </div>  
 <br/>
 
-<div align="center">
-  <h2 align="center" style="margin: 5px 10px;">GitHub stats:</h2>
-
-  - Total Repositories: [![GitHub Repos](https://img.shields.io/github/repo-count/Elite-HYO-Group/Your-Repo)](https://github.com/Elite-HYO-Group)
-  - Total Stars: [![GitHub Stars](https://img.shields.io/github/stars/Elite-HYO-Group/Your-Repo)](https://github.com/Elite-HYO-Group)
-  - Total Forks: [![GitHub Forks](https://img.shields.io/github/forks/Elite-HYO-Group/Your-Repo)](https://github.com/Elite-HYO-Group)
-
-  [View Our GitHub Profile](https://github.com/Elite-HYO-Group)
-</div>
-
-
-
-
-<h4 style="margin: 5px 10px;">Never leave without a word !!!!!!!!!!</h4> 
-<a href="https://www.buymeacoffee.com/yvonmu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Us A Coffee" height="41" width="174"></a>
 
 
 ## Our Story
@@ -45,6 +31,9 @@ At ELITE-HYO GROUP, we're not just an IT services company; we're your go-to expe
 ![Statistics](https://img.shields.io/badge/Projects-10+-green)
 ![Statistics](https://img.shields.io/badge/Clients-50+-blue)
 ![Statistics](https://img.shields.io/badge/Team-20+-orange)
+
+<h4 style="margin: 5px 10px;">Never leave without a word !!!!!!!!!!</h4> 
+<a href="https://www.buymeacoffee.com/yvonmu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Us A Coffee" height="41" width="174"></a>
 
 ---
 
@@ -76,11 +65,10 @@ Our vision at ELITE-HYO GROUP is to lead the charge in IT consultancy, setting t
 
 Have questions or want to reach out to us? Feel free to contact us through one of the following channels:
 
-- **Email:** [Your contact email]
-- **Twitter:** [![Twitter Logo](https://www.example.com/twitter-logo.png)](https://twitter.com/YourTwitterHandle)
-- **Facebook:** [![Facebook Logo](https://www.example.com/facebook-logo.png)](https://facebook.com/YourFacebookPage)
-- **LinkedIn:** [![LinkedIn Logo](https://www.example.com/linkedin-logo.png)](https://linkedin.com/in/YourLinkedInProfile)
-- **Instagram:** [![Instagram Logo](https://www.example.com/instagram-logo.png)](https://instagram.com/YourInstagramProfile)
+- **Email:** [info@elitehyogroup.com]
+- **Website:** [![Facebook Logo](https://www.example.com/facebook-logo.png)](https://elitehyogroup.com)
+- **LinkedIn:** [![LinkedIn Logo](https://img.shields.io/badge/linkedin-%231E77B5.svg)](https://linkedin.com/in/YourLinkedInProfile)
+- **Instagram:** [![Instagram Logo](https://img.shields.io/badge/instagram-%23000000.svg)](https://instagram.com/YourInstagramProfile)
 <div align="center">
 <a href="https://github.com/Yvonmu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
