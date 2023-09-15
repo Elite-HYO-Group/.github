@@ -1,4 +1,3 @@
-# .github
 # Elite-HYO Group Ltd
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -39,10 +38,9 @@ Our vision at ELITE-HYO GROUP is to lead the charge in IT consultancy, setting t
 Have questions or want to reach out to us? Feel free to contact us through one of the following channels:
 
 - **Email:** [Your contact email]
-- **Instagram:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Website:** [Your Organization's Website]
-- **GitHub:** [Your GitHub Organization Page](https://github.com/your-organization)
-
----
+- **Twitter:** [![Twitter Logo](https://www.example.com/twitter-logo.png)](https://twitter.com/YourTwitterHandle)
+- **Facebook:** [![Facebook Logo](https://www.example.com/facebook-logo.png)](https://facebook.com/YourFacebookPage)
+- **LinkedIn:** [![LinkedIn Logo](https://www.example.com/linkedin-logo.png)](https://linkedin.com/in/YourLinkedInProfile)
+- **Instagram:** [![Instagram Logo](https://www.example.com/instagram-logo.png)](https://instagram.com/YourInstagramProfile)
 
 ![GitHub Logo](https://example.com/your-logo.png)
