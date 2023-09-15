@@ -68,7 +68,9 @@ Have questions or want to reach out to us? Feel free to contact us through one o
 - **Email:** [info@elitehyogroup.com]
 - **Website:** [![Facebook Logo](https://www.example.com/facebook-logo.png)](https://elitehyogroup.com)
 - **LinkedIn:** [![LinkedIn Logo](https://img.shields.io/badge/linkedin-%231E77B5.svg)](https://linkedin.com/in/YourLinkedInProfile)
-- **Instagram:** [![Instagram Logo](https://img.shields.io/badge/instagram-%23000000.svg)](https://instagram.com/YourInstagramProfile)
+- **Instagram:** .<a href="https://www.instagram.com/yvonmu/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 <div align="center">
 <a href="https://github.com/Yvonmu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -85,4 +87,6 @@ Have questions or want to reach out to us? Feel free to contact us through one o
 </div>  
 <br/>
 
-![GitHub Logo](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;")
+<a href="https://github.com/Yvonmu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
