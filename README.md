@@ -3,6 +3,17 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![GitHub Logo](https://example.com/your-logo.png)
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Yvonmu&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Yvonmu)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Yvonmu&theme=material-palenight)](https://github.com/Yvonmu)
+</div>
+
+<h4 style="margin: 5px 10px;">Never leave without a word !!!!!!!!!!</h4> 
+<a href="https://www.buymeacoffee.com/yvonmu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 ## Our Story
 
 Welcome to ELITE-HYO GROUP - Your Trusted IT Consultancy Partner
@@ -50,5 +61,20 @@ Have questions or want to reach out to us? Feel free to contact us through one o
 - **Facebook:** [![Facebook Logo](https://www.example.com/facebook-logo.png)](https://facebook.com/YourFacebookPage)
 - **LinkedIn:** [![LinkedIn Logo](https://www.example.com/linkedin-logo.png)](https://linkedin.com/in/YourLinkedInProfile)
 - **Instagram:** [![Instagram Logo](https://www.example.com/instagram-logo.png)](https://instagram.com/YourInstagramProfile)
+<div align="center">
+<a href="https://github.com/Yvonmu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/yvon-mutuyeyezu/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/mutuyeyezu.yvon/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/yvonmu/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/>
 
 ![GitHub Logo](https://example.com/your-logo.png)
