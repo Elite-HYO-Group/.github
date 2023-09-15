@@ -1,7 +1,8 @@
 # Elite-HYO Group Ltd
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-## Connect with Us 🚀
+
+**Connect with Us 🚀**
 
 <div align="center">
 <a href="https://github.com/Yvonmu" target="_blank">
@@ -17,9 +18,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<br/>
-
-
 
 ## Our Story
 
@@ -66,7 +64,8 @@ Our vision at ELITE-HYO GROUP is to lead the charge in IT consultancy, setting t
 
 Have questions or want to reach out to us? Feel free to contact us through one of the following channels:
 
-- **Email:** [info@elitehyogroup.com]
+- **Email:** info@elitehyogroup.com
+- **Website:** https://elitehyogroup.com
 - **Website:** [![Facebook Logo](https://www.example.com/facebook-logo.png)](https://elitehyogroup.com)
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -84,5 +83,4 @@ Have questions or want to reach out to us? Feel free to contact us through one o
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<br/>
 
