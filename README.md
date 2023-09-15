@@ -1,8 +1,9 @@
 # Elite-HYO Group Ltd
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+## Connect with Us 🚀
 
 <div align="center">
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 <a href="https://github.com/Yvonmu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -67,11 +68,9 @@ Have questions or want to reach out to us? Feel free to contact us through one o
 
 - **Email:** [info@elitehyogroup.com]
 - **Website:** [![Facebook Logo](https://www.example.com/facebook-logo.png)](https://elitehyogroup.com)
-- **LinkedIn:** [![LinkedIn Logo](https://img.shields.io/badge/linkedin-%231E77B5.svg)](https://linkedin.com/in/YourLinkedInProfile)
-- **Instagram:** .<a href="https://www.instagram.com/yvonmu/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<div align="center">
+<div align="">
 <a href="https://github.com/Yvonmu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -87,6 +86,3 @@ Have questions or want to reach out to us? Feel free to contact us through one o
 </div>  
 <br/>
 
-<a href="https://github.com/Yvonmu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
