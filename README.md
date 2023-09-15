@@ -6,12 +6,12 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Yvonmu&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Yvonmu)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Yvonmu&theme=material-palenight)](https://github.com/Yvonmu)
+[![](https://github-readme-stats.vercel.app/api?username=Elite-HYO-Group&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elite-HYO-Group)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Elite-HYO-Group&theme=material-palenight)](https://github.com/Elite-HYO-Group)
 </div>
 
 <h4 style="margin: 5px 10px;">Never leave without a word !!!!!!!!!!</h4> 
-<a href="https://www.buymeacoffee.com/yvonmu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/yvonmu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Us A Coffee" height="41" width="174"></a>
 
 
 ## Our Story
