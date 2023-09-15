@@ -16,7 +16,6 @@ At ELITE-HYO GROUP, we're not just an IT services company; we're your go-to expe
 ![Statistics](https://img.shields.io/badge/Clients-50+-blue)
 ![Statistics](https://img.shields.io/badge/Team-20+-orange)
 
-
 ---
 
 ### Bridging Technology Gaps Worldwide
